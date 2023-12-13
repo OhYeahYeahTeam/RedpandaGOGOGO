@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "madecyber",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.125,
+  "sample": 40,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.025,
+            "value": {
+              "__uuid__": "9a51ec72-cef4-4778-b6b0-0d47ef20423d"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b422ee73-3acd-4b0c-838d-1521d7b18392"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "af165d92-ab28-4a74-99f1-0c64087c1ee7"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "a5f9e914-8b88-4838-8316-e0b01c946b26"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "7c3b2970-ea99-4074-86a7-703cb1db824a"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "bc945692-f759-436c-9e11-def0dd4b22d3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

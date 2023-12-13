@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "madegongfu",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.125,
+  "sample": 40,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.025,
+            "value": {
+              "__uuid__": "9dac883f-e5de-4742-a321-1272d6f19039"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0b29f678-689d-4d21-b62d-b72f9c1c8d33"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "7180040e-4f64-4f3f-9d27-67cc24f09527"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "59099f6b-414f-4892-934c-d1bdd639945c"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "b516fc66-5a07-4f94-94fb-c3a9688eca20"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "55376ad9-6ee0-44e1-9d8f-08e02514c799"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

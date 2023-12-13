@@ -1,0 +1,115 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mon04_die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2916666666666667,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7aefd8f1-34f0-41c7-9b8b-3fe405b825e0"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "26654ccb-c617-4aef-b541-2a194e05f160"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "964c98a5-0ec7-4d98-8098-d0f97239d589"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "706c4e4d-4d47-41f6-b2b7-cb9c2872a979"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "05889f09-7476-41c6-9df5-892fb372c7a4"
+            }
+          },
+          {
+            "frame": 0.20833333333333334,
+            "value": {
+              "__uuid__": "3f63b672-d0cc-4fff-9273-08a23f3f0fef"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e39115b0-c051-4050-8e33-8a0b0382e0c9"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {
+      "hitbox": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.16666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "hurtbox": {
+        "comps": {
+          "cc.BoxCollider": {
+            "size": [
+              {
+                "frame": 0.25,
+                "value": {
+                  "__type__": "cc.Size",
+                  "width": 71,
+                  "height": 17
+                }
+              }
+            ],
+            "offset": [
+              {
+                "frame": 0.25,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "x": 42,
+                  "y": 5
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "props": {
+      "anchorY": [
+        {
+          "frame": 0.041666666666666664,
+          "value": 0.3
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.35
+        },
+        {
+          "frame": 0.25,
+          "value": 0.37
+        }
+      ]
+    }
+  },
+  "events": []
+}

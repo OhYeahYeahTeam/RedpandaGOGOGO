@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bookcyber",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 30,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c21d1a78-d51d-4f20-9dfc-7d99a29101fb"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "beff332f-e07e-4d8b-85bf-8c69cbf86bc0"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "c1817df2-92a1-4a5d-828b-e053475cf37d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "fe1df650-e116-43ed-aa18-c5166f273c00"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "b6e40e7c-f482-4af7-8415-370a6e066db5"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "bd0de41a-51c7-4bed-ab38-18a6657c696f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "38440f0e-ef0b-4095-bf17-2bef01c1f2d0"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "d33443fe-4587-4d6d-ab68-c4f3b30c8b32"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

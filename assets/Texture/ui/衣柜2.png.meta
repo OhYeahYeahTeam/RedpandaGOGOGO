@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5a61ad4a-1377-4abf-bf90-92f5aaec972f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 768,
+  "height": 1138,
+  "platformSettings": {},
+  "subMetas": {
+    "衣柜2": {
+      "ver": "1.0.4",
+      "uuid": "877d2dfc-709c-4736-8ad6-99e6c6c48efa",
+      "rawTextureUuid": "5a61ad4a-1377-4abf-bf90-92f5aaec972f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -15.5,
+      "trimX": 40,
+      "trimY": 83,
+      "width": 694,
+      "height": 1003,
+      "rawWidth": 768,
+      "rawHeight": 1138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

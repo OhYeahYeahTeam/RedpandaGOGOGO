@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "madehuajia",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.125,
+  "sample": 40,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.025,
+            "value": {
+              "__uuid__": "beef0f34-6c14-4f1f-abc5-9cf8eb336f5e"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2d362003-d5d2-4a4b-b7f9-8ec027aa7ce9"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "5dfabcb4-d851-4a69-a083-521a520393ad"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "4e19e82e-eb12-4f6f-bdc5-0529b2d524f0"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "01e1f1cb-58e7-4bff-8849-1e0adf226578"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "837e1602-7085-44df-800c-f0f97e510096"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

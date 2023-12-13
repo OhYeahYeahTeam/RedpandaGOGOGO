@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "writecyber",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 40,
+  "speed": 0.15,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.075,
+            "value": {
+              "__uuid__": "41733e22-e5af-4f78-8096-6ced6f7f2ea0"
+            }
+          },
+          {
+            "frame": -0.05,
+            "value": {
+              "__uuid__": "92a00684-cec8-4e2c-8297-69dcd28735bd"
+            }
+          },
+          {
+            "frame": -0.025,
+            "value": {
+              "__uuid__": "e8fddb9b-0500-46f3-a038-d63bcb616842"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9a5ebee1-0dea-428c-ae74-0f0bcb150485"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "534334be-b755-42e0-b6dc-822762c767d5"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "ff6f5927-67d2-4de5-a735-a717f98e5f31"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "d481d985-bd36-4c37-864b-fa80b2ebc324"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

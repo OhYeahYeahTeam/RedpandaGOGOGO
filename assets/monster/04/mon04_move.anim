@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mon04_move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "563c44ae-9fde-4fdb-babd-433c68506444"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "6a560ff2-419b-4f28-9ccc-d4213ce848bd"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e4cc8de6-2753-42c8-b076-0c4350918bd6"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "45547ef2-8dc5-40fd-aaa4-6fc8896dc86d"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "90f96d99-44bc-4742-81f6-b89e822be3f1"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {
+      "hitbox": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "hurtbox": {
+        "comps": {
+          "cc.BoxCollider": {
+            "size": [
+              {
+                "frame": 0,
+                "value": {
+                  "__type__": "cc.Size",
+                  "width": 42,
+                  "height": 72
+                }
+              }
+            ],
+            "offset": [
+              {
+                "frame": 0,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "x": 3,
+                  "y": 33
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

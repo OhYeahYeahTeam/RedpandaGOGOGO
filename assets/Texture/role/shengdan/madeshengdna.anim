@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "madeshengdna",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 40,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.05,
+            "value": {
+              "__uuid__": "1120ce06-18af-4a5a-b28e-b49f5d11617e"
+            }
+          },
+          {
+            "frame": -0.025,
+            "value": {
+              "__uuid__": "28c2245f-525d-4f32-af79-a6df411f896d"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c929f006-b856-4db8-90a3-66da400ba30b"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "0276c90a-ba68-4e69-9e45-5aadf272f8ad"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "8041a093-8951-4e1d-ba24-ca931c9d7fd4"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "6474b6fb-0e98-41ed-9d15-adcf957b3677"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

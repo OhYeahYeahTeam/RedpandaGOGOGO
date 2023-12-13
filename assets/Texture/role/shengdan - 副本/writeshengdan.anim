@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "writeshengdan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.13333333333333333,
+  "sample": 60,
+  "speed": 0.15,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "b01263b4-eb3d-41fa-88de-e2b8bdb16e88"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "c2190758-5cb4-435e-94e0-cb1f5525332e"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "f21a6a8c-a3e7-4d90-b7fd-351ffebe6162"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "7884dcda-cbb4-4c81-81d2-10bb66e50ed0"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "6f03b722-28cf-4ea5-8149-171e3c2113c8"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "945252b4-6bf2-494d-9cbc-b32f739dfb50"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "ef506aed-9cfa-490f-bbf6-f02fe2953cc9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
